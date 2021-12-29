@@ -1,1 +1,97 @@
+ <!DOCTYPE html>
 
+<html>
+
+<head>
+
+<title>Layout pane</title>
+
+<style>
+
+header{
+
+background-color: #DEB887;
+
+padding: 20px;
+
+text-align: center;
+
+margin: 3px;
+
+margin-left: 1px;
+
+margin-right: 1px;
+
+color: black;
+
+
+}nav{
+
+background-color: #696969;
+
+padding: 10px;
+
+text-align: center;
+
+margin: 3px;
+
+margin-left: 1px;
+
+margin-right: 1px;
+
+color:black;
+
+
+}div{
+
+background-color: #F5DEB3;
+
+padding: 130px;
+
+text-align: center;
+
+margin: 3px;
+
+margin-left: 1px;
+
+margin-right: 1px;
+
+color: black;
+
+
+}footer{
+
+background-color: #D2B48C;
+
+padding: 20px;
+
+text-align: center;
+
+margin: 3px;
+
+margin-left: 1px;
+
+margin-right: 1px;
+
+color: black;
+
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>Header</header>
+
+<nav>Navigation Bar</nav>
+
+<div>Content</div>
+
+<footer>Footer</footer>
+
+</body>
+
+</html>
