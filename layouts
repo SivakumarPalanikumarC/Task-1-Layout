@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.4.7.2 (Linux)"/>
+	<meta name="created" content="2021-12-28T23:23:09.544746654"/>
+	<meta name="changed" content="2021-12-28T23:23:53.091500104"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
+	</style>
+</head>
+<body lang="en-IN" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
+&lt;!DOCTYPE html&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">&lt;html&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;head&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">       
+&lt;title&gt;Layout pane&lt;/title&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;style&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">          
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">        header{</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+background-color: #DEB887;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            padding:
+20px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+text-align: center;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            margin:
+3px;   
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-left: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-right: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            color:
+black;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">        }nav{</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+background-color: #696969;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            padding:
+10px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+text-align: center;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            margin:
+3px;   
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-left: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-right: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+color:black;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">          
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">        }div{</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+background-color: #F5DEB3;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            padding:
+130px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+text-align: center;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            margin:
+3px;   
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-left: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-right: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            color:
+black;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">        }footer{</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+background-color: #D2B48C;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            padding:
+20px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+text-align: center;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            margin:
+3px;   
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-left: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+margin-right: 1px;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">            color:
+black;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">           
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">        }</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;/style&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;/head&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;body&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">       
+&lt;header&gt;Header&lt;/header&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">       
+&lt;nav&gt;Navigation Bar&lt;/nav&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">       
+&lt;div&gt;Content&lt;/div&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">       
+&lt;footer&gt;Footer&lt;/footer&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">    &lt;/body&gt;</p>
+<p style="margin-bottom: 0cm; line-height: 100%">&lt;/html&gt;</p>
+</body>
+</html>
